@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color:rgb(240, 235, 229);
+    padding-bottom: 30px;
+    
+}
+.logo a img{height: 40px;}
+
+.addvertise img{
+    height: 450px;
+}
+
+.heading h1{
+    font-weight:bolder;
+    font-size: 60px;
+    
+}
+.heading .color-h1 {
+    color: orange;
+}
+.heading .color-h1-1{
+    color: rgb(42, 42, 75);
+}
+
+.button{
+    height: 60px;
+    width: 200px;
+    background-color:#86b300; 
+    border: 0;
+}
