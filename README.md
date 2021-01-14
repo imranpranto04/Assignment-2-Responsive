@@ -1,2 +1,1 @@
-# Assignment-2-Responsive
-# Responsive-site-assign
+# Responsive-site-Assignment-2
