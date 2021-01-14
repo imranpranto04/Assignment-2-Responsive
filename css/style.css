@@ -29,7 +29,71 @@ header{
 
 .button{
     height: 60px;
-    width: 200px;
+    width: 150px;
     background-color:#86b300; 
     border: 0;
+}
+
+/* ..............main Women Jacket............... */
+
+.categories{
+    margin: 2%;
+    border-radius: 1em;
+    background-color: #ece8e8;
+}
+
+.image-h img{
+    height: 320px;
+    padding: 20px;
+}   
+
+.price-h3{
+    color: orange;
+    font-weight: 700;
+}
+
+.box{
+    height: 600px;
+    background-color: white;
+}
+
+.jack-heading{
+    color:rgb(42, 42, 75) ;
+    font-weight: 700;
+}
+.jack-title{
+    color: rgb(42, 42, 75);
+    font-weight: 700;
+}
+
+
+.buy{
+    border: none;
+    background-color: white;
+    
+}
+
+/* ...................seller section............... */
+
+.seller{
+    margin: 20px;
+    border: none;
+    
+}
+
+.icon-size img{
+    height: 60px;
+    background-color:white;
+    padding-right: 25px;
+}
+
+/* .............footer............. */
+
+#contact{
+    background-color: #fab3a6;
+    color: rgb(52, 65, 61);
+    font-size: 18px;
+}
+address{
+    padding-top: 10px;
 }
